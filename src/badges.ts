@@ -51,6 +51,11 @@ export const LanguageBadges: Format[] = [
         color: "black",
         logoBase64: iconToBase64(icons.siPython),
     },
+    {
+        message: "Zsh",
+        color: "black",
+        logoBase64: iconToBase64(icons.siZsh),
+    },
 ];
 
 export const DistributionBadges: Format[] = [
