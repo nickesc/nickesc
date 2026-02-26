@@ -27,7 +27,12 @@ export const LanguageBadges: Format[] = [
         logoBase64: iconToBase64(icons.siTypescript),
     },
     {
-        message: "HTML5",
+        message: "JavaScript",
+        color: "black",
+        logoBase64: iconToBase64(icons.siJavascript),
+    },
+    {
+        message: "HTML",
         color: "black",
         logoBase64: iconToBase64(icons.siHtml5),
     },
@@ -37,9 +42,9 @@ export const LanguageBadges: Format[] = [
         logoBase64: iconToBase64(icons.siNodedotjs),
     },
     {
-        message: "Express",
+        message: "CSS",
         color: "black",
-        logoBase64: iconToBase64(icons.siExpress),
+        logoBase64: iconToBase64(icons.siCss),
     },
     {
         message: "Python",
@@ -75,7 +80,7 @@ export const DistributionBadges: Format[] = [
         logoBase64: svgFileToBase64("open-vsx.svg"),
     },
     {
-        message: "itch.io",
+        message: "Itch.io",
         color: "black",
         logoBase64: iconToBase64(icons.siItchdotio),
     },
