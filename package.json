@@ -1,0 +1,27 @@
+{
+  "name": "nickesc-readme",
+  "version": "0.0.1",
+  "description": "Generate assets for README.md",
+  "homepage": "https://github.com/nickesc/nickesc#readme",
+  "bugs": {
+    "url": "https://github.com/nickesc/nickesc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickesc/nickesc.git"
+  },
+  "author": "N. Escobar <nick@nescobar.media> (https://nickesc.github.io/)",
+  "type": "module",
+  "main": "src/generateAssets.ts",
+  "scripts": {
+    "test": "node src/generateAssets.ts && echo \"Success\""
+  },
+  "dependencies": {
+    "badge-maker": "^5.0.2",
+    "simple-icons": "^16.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.2"
+  },
+  "private": true
+}
