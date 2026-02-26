@@ -69,4 +69,14 @@ export const DistributionBadges: Format[] = [
         color: "black",
         logoBase64: svgFileToBase64("vs-mp.svg"),
     },
+    {
+        message: "OpenVSX",
+        color: "black",
+        logoBase64: svgFileToBase64("open-vsx.svg"),
+    },
+    {
+        message: "itch.io",
+        color: "black",
+        logoBase64: iconToBase64(icons.siItchdotio),
+    },
 ];
