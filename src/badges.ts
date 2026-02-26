@@ -18,42 +18,43 @@ function iconToBase64(icon: SimpleIcon) {
 export const LanguageBadges: Format[] = [
     {
         message: "React",
-        color: "black",
+        color: "#61dafb",
         logoBase64: iconToBase64(icons.siReact),
     },
     {
         message: "TypeScript",
-        color: "black",
+        color: "#3178C6",
         logoBase64: iconToBase64(icons.siTypescript),
     },
     {
         message: "JavaScript",
-        color: "black",
+        color: "#F1DD35",
         logoBase64: iconToBase64(icons.siJavascript),
     },
     {
         message: "HTML",
-        color: "black",
+        color: "#E44D26",
         logoBase64: iconToBase64(icons.siHtml5),
     },
     {
-        message: "Nodejs",
-        color: "black",
-        logoBase64: iconToBase64(icons.siNodedotjs),
-    },
-    {
         message: "CSS",
-        color: "black",
+        color: "#1572B6",
         logoBase64: iconToBase64(icons.siCss),
     },
     {
+        message: "Nodejs",
+        color: "#339933",
+        logoBase64: iconToBase64(icons.siNodedotjs),
+    },
+
+    {
         message: "Python",
-        color: "black",
+        color: "#4483b5",
         logoBase64: iconToBase64(icons.siPython),
     },
     {
         message: "Zsh",
-        color: "black",
+        color: "#111111",
         logoBase64: iconToBase64(icons.siZsh),
     },
 ];
