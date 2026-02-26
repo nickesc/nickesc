@@ -61,32 +61,32 @@ export const LanguageBadges: Format[] = [
 export const DistributionBadges: Format[] = [
     {
         message: "GitHub",
-        color: "black",
+        color: "#101411",
         logoBase64: iconToBase64(icons.siGithub),
     },
     {
         message: "NPM",
-        color: "black",
+        color: "#CC3534",
         logoBase64: iconToBase64(icons.siNpm),
     },
     {
         message: "Modrinth",
-        color: "black",
+        color: "#1BD96A",
         logoBase64: iconToBase64(icons.siModrinth),
     },
     {
         message: "VS Marketplace",
-        color: "black",
+        color: "#68217a",
         logoBase64: svgFileToBase64("vs-mp.svg"),
     },
     {
         message: "OpenVSX",
-        color: "black",
+        color: "#a60ee5",
         logoBase64: svgFileToBase64("open-vsx.svg"),
     },
     {
         message: "Itch.io",
-        color: "black",
+        color: "#fa5c5c",
         logoBase64: iconToBase64(icons.siItchdotio),
     },
 ];
