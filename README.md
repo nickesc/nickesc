@@ -17,7 +17,9 @@
 
 Hi, I'm Nick!
 
-I'm a web developer, and I'm passionate about open-source and building tools that help people.
+I'm a web developer and designer, and I'm passionate about open-source and building tools that help people. Sometimes I make games.
+
+Founder of N. Escobar Media, an independent production studio.
 
 <br />
 
