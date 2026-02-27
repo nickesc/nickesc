@@ -19,7 +19,7 @@ function generateBadges(badges: Format[] = []) {
     try {
         for (const badge of badges) {
             let badgeSvg = makeBadge({ ...template, ...badge });
-            writeBadge(badgeSvg, path.join(process.cwd(), OUTPUT_DIR, `${badge.message}.svg`));
+            writeBadge(badgeSvg, path.join(process.cwd(), OUTPUT_DIR, `${(badge.label ?? badge.message).replace(" ", "-")}.svg`));
         }
     } catch (e) {
         console.log(e);
