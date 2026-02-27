@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="img/nickesc.svg" alt="Nick Escobar" width="100" height="100">
+<a href="https://github.com/nickesc"><img src="img/nickesc.svg" alt="nickesc" width="100" height="100"></a>
 
 ### Nick Escobar (nickesc)
 
