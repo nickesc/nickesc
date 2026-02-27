@@ -6,12 +6,14 @@ import path from "path";
 
 const ASSET_DIR = "src/assets";
 
-function svgFileToBase64(filename: string) {
-    return `data:image/svg+xml;base64,${btoa(fs.readFileSync(path.join(process.cwd(), ASSET_DIR, filename), "utf8"))}`;
-}
+function iconToBase64(icon: SimpleIcon | string, color: "light" | "dark" = "light") {
+    let svg: string;
+    if (typeof icon === "string") {
+        svg = fs.readFileSync(path.join(process.cwd(), ASSET_DIR, icon), "utf8");
+    } else {
+        svg = icon.svg.replace("<svg", `<svg fill="${color === "light" ? "#fff" : "#333"}"`);
+    }
 
-function iconToBase64(icon: SimpleIcon, color: "light" | "dark" = "light") {
-    const svg = icon.svg.replace("<svg", `<svg fill="${color === "light" ? "#fff" : "#333"}"`);
     return `data:image/svg+xml;base64,${btoa(svg)}`;
 }
 
@@ -100,14 +102,14 @@ export const DistributionBadges: Format[] = [
         message: "Extensions",
         color: "hsl(288, 57%, 30%)",
         labelColor: "hsl(288, 57%, 15%)",
-        logoBase64: svgFileToBase64("vs-mp.svg"),
+        logoBase64: iconToBase64("vs-mp.svg"),
     },
     {
         label: "OpenVSX",
         message: "Extensions",
         color: "hsl(282, 88%, 48%)",
         labelColor: "hsl(282, 88%, 33%)",
-        logoBase64: svgFileToBase64("open-vsx.svg"),
+        logoBase64: iconToBase64("open-vsx.svg"),
     },
     {
         label: "Itch.io",
