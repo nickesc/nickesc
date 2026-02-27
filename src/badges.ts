@@ -17,6 +17,21 @@ function iconToBase64(icon: SimpleIcon | string, color: "light" | "dark" = "ligh
     return `data:image/svg+xml;base64,${btoa(svg)}`;
 }
 
+export const WebBadges: Format[] = [
+    {
+        style: "flat-square",
+        message: "nickesc.io",
+        color: "#EF5252",
+        logoBase64: iconToBase64("sig.svg"),
+    },
+    {
+        style: "flat-square",
+        message: "batcomputer.xyz",
+        color: "#232326",
+        logoBase64: iconToBase64("batman.svg"),
+    },
+];
+
 export const LanguageBadges: Format[] = [
     {
         style: "flat-square",

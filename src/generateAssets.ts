@@ -1,7 +1,7 @@
 import { makeBadge } from "badge-maker";
 import fs from "fs";
 import path from "path";
-import { LanguageBadges, DistributionBadges } from "./badges.ts";
+import { LanguageBadges, DistributionBadges, WebBadges } from "./badges.ts";
 import type { Format } from "badge-maker";
 const OUTPUT_DIR = "badges";
 
@@ -28,3 +28,4 @@ function generateBadges(badges: Format[] = []) {
 
 generateBadges(LanguageBadges);
 generateBadges(DistributionBadges);
+generateBadges(WebBadges);
