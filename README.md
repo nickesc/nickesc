@@ -44,7 +44,7 @@ Founder of N. Escobar Media, an independent production studio.
 
 </details>
 
-<details open>
+<details>
   <summary><h3>Where to find my work</h3></summary>
 
 <blockquote>
