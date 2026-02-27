@@ -6,6 +6,13 @@
 
 ###### Full-Stack Developer
 
+<div>
+
+[![nickesc.io](badges/nickesc-io.svg)](https://nickesc.io/)
+[![batcomputer.xyz](badges/batcomputer-xyz.svg)](https://batcomputer.xyz/)
+
+</div>
+
 </div>
 
 Hi, I'm Nick!
