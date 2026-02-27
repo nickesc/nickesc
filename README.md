@@ -25,12 +25,12 @@ Founder of N. Escobar Media, an independent production studio.
 
 <div align="center">
 
-[![TypeScript](badges/TypeScript.svg)](https://www.typescriptlang.org/)
-[![JavaScript](badges/JavaScript.svg)](https://262.ecma-international.org/)
 [![HTML](badges/HTML.svg)](https://html.spec.whatwg.org/multipage/)
 [![CSS](badges/CSS.svg)](https://www.w3.org/Style/CSS/)
-[![React](badges/React.svg)](https://react.dev/)
+[![JavaScript](badges/JavaScript.svg)](https://262.ecma-international.org/)
+[![TypeScript](badges/TypeScript.svg)](https://www.typescriptlang.org/)
 [![Nodejs](badges/Nodejs.svg)](https://nodejs.org/)
+[![React](badges/React.svg)](https://react.dev/)
 [![Python](badges/Python.svg)](https://www.python.org/)
 [![Zsh](badges/Zsh.svg)](https://zsh.sourceforge.io/)
 [![Godot](badges/Godot.svg)](https://godotengine.org/)
