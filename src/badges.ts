@@ -4,7 +4,7 @@ import * as icons from "simple-icons";
 import fs from "fs";
 import path from "path";
 
-const ASSET_DIR = "assets";
+const ASSET_DIR = "src/assets";
 
 function svgFileToBase64(filename: string) {
     return `data:image/svg+xml;base64,${btoa(fs.readFileSync(path.join(process.cwd(), ASSET_DIR, filename), "utf8"))}`;
