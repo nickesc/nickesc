@@ -10,20 +10,20 @@
 
 Hi, I'm Nick!
 
-I'm a web developer that's passionate about open-source and building tools that help people.
+I'm a web developer, and I'm passionate about open-source and building tools that help people.
 
 <br />
 
 <div align="center">
 
 [![TypeScript](badges/TypeScript.svg)](https://www.typescriptlang.org/)
-[![JavaScript](badges/JavaScript.svg)](https://www.javascript.com/)
-[![HTML](badges/HTML.svg)](https://www.w3.org/html/)
+[![JavaScript](badges/JavaScript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](badges/HTML.svg)](https://html.spec.whatwg.org/multipage/)
 [![CSS](badges/CSS.svg)](https://www.w3.org/Style/CSS/)
 [![React](badges/React.svg)](https://react.dev/)
 [![Nodejs](badges/Nodejs.svg)](https://nodejs.org/)
 [![Python](badges/Python.svg)](https://www.python.org/)
-[![Zsh](badges/Zsh.svg)](https://www.zsh.org/)
+[![Zsh](badges/Zsh.svg)](https://zsh.sourceforge.io/)
 [![Godot](badges/Godot.svg)](https://godotengine.org/)
 
 </div>
