@@ -64,7 +64,7 @@ I'm a web developer that's passionate about open-source and building tools that 
 <dt>Games</dt>
 <dd>
 
-[![Itch.io](badges/Itch.io.svg)](https://nickesc.itch.io/)
+[![Itch.io](badges/Itch-io.svg)](https://nickesc.itch.io/)
 [![Modrinth](badges/Modrinth.svg)](https://modrinth.com/user/nickesc)
 
 </dd>
