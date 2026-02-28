@@ -4,7 +4,7 @@
 
 ### Nick Escobar (nickesc)
 
-###### Full-Stack Developer
+###### _Full-Stack Developer_
 
 [![nickesc.io](img/badges/nickesc-io.svg)](https://nickesc.io/)
 [![batcomputer.xyz](img/badges/batcomputer-xyz.svg)](https://batcomputer.xyz/)
@@ -17,7 +17,7 @@ Hi, I'm Nick!
 
 I'm a web developer and designer, and I'm passionate about open-source and building tools that help people. Sometimes I make games.
 
-Founder of N. Escobar Media, an independent production studio.
+Founder of _N. Escobar Media_, an independent production studio.
 
 <br />
 
@@ -59,12 +59,12 @@ If you support me through Ko-Fi, you'll be contributing towards project maintena
 
 I am open to work, and I'm currently looking for a position as a full-time web developer.
 
-I'm also open to collaborating on open-source tools, web apps, extensions, and other creative projects.
+I'm also open to collaborating on open-source tools, apps, and other creative projects.
 
 Best ways to reach me:
 
 - For repository-specific questions or bugs: open an issue on the relevant repo
-- For other inquiries: reach out on [Bluesky](https://bsky.app/profile/nickesc.io) or [Mastodon](https://infosec.exchange/@nickesc)
+- For other inquiries: reach out on [BlueSky](https://bsky.app/profile/nickesc.io) or [Mastodon](https://infosec.exchange/@nickesc)
 
 </details>
 
@@ -73,7 +73,7 @@ Best ways to reach me:
 
 <blockquote>
 <dl>
-<dt>Code</dt>
+<dt>Code, Apps & Packages</dt>
 <dd>
 
 [![GitHub](img/badges/GitHub.svg)](https://github.com/nickesc)
@@ -83,7 +83,7 @@ Best ways to reach me:
 </dl>
 
 <dl>
-<dt>Extensions</dt>
+<dt>Extensions & Add-ons</dt>
 <dd>
 
 [![Visual Studio Marketplace](img/badges/VS-Marketplace.svg)](https://marketplace.visualstudio.com/publishers/nickesc)
