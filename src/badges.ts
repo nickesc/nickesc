@@ -141,3 +141,46 @@ export const DistributionBadges: Format[] = [
         logoBase64: iconToBase64(icons.siFirefox),
     },
 ];
+
+export const SocialBadges: Format[] = [
+    {
+        message: "Support me",
+        color: "#72A5F2",
+        logoBase64: iconToBase64("kofi.svg"),
+    },
+    {
+        label: "BlueSky",
+        message: "@nickesc.io",
+        color: "hsl(0,0%,100%)",
+        labelColor: "hsl(0,0%,85%)",
+        logoBase64: iconToBase64("bluesky.svg"),
+    },
+    {
+        label: "GitHub",
+        message: "nickesc",
+        color: "hsl(0,0%,100%)",
+        labelColor: "hsl(0,0%,85%)",
+        logoBase64: iconToBase64("github.svg"),
+    },
+    {
+        label: "Mastodon",
+        message: "@nickesc@infosec.exchange",
+        color: "hsl(0,0%,100%)",
+        labelColor: "hsl(0,0%,85%)",
+        logoBase64: iconToBase64("infosec-exchange.svg"),
+    },
+    {
+        label: "YouTube",
+        message: "@nickesc_",
+        color: "hsl(0,0%,100%)",
+        labelColor: "hsl(0,0%,85%)",
+        logoBase64: iconToBase64("youtube.svg"),
+    },
+    {
+        label: "LinkedIn",
+        message: "nickesc",
+        color: "hsl(0,0%,100%)",
+        labelColor: "hsl(0,0%,85%)",
+        logoBase64: iconToBase64("linkedin.svg"),
+    },
+];
