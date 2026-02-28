@@ -55,6 +55,18 @@ If you support me through Ko-Fi, you'll be contributing towards project maintena
 </details>
 
 <details>
+  <summary><h3>Work with me</h3></summary>
+
+I am open to work, and I'm currently looking for a position as a full time web developer. I am also open to collaborating on open-source tools, web apps, extensions, and other creative projects.
+
+Best ways to reach me:
+
+- For repository-specific questions or bugs: open an issue on the relevant repo
+- For other inquiries: reach out on [Bluesky](https://bsky.app/profile/nickesc.io) or [Mastodon](https://infosec.exchange/@nickesc)
+
+</details>
+
+<details>
   <summary><h3>Where to find my work</h3></summary>
 
 <blockquote>
@@ -89,18 +101,6 @@ If you support me through Ko-Fi, you'll be contributing towards project maintena
 </dd>
 </dl>
 </blockquote>
-
-</details>
-
-<details>
-  <summary><h3>Work with me</h3></summary>
-
-I am open to work, and I am currently looking for a position as a full time web developer. I am also open to collaborating on open-source tools, web apps, extensions, and other creative projects.
-
-Best ways to reach me:
-
-- For repository-specific questions or bugs: open an issue on the relevant repo
-- For other inquiries: reach out on [Bluesky](https://bsky.app/profile/nickesc.io) or [Mastodon](https://infosec.exchange/@nickesc)
 
 </details>
 
