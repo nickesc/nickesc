@@ -40,6 +40,18 @@ Founder of N. Escobar Media, an independent production studio.
 <details>
   <summary><h3>More about me</h3></summary>
 
+I'm a graduate of Occidental College, a small liberal arts college in Los Angeles, with a B.A. in Computer Science and minors in Studio Art and Media Studies.
+
+I've been coding since high school, and I've been working as a professional web developer since 2023.
+
+I love video games -- making, collecting, playing, everything. Ask me about them!
+
+Almost everything I make is open-source, and I'm excited to contribute to the community.
+
+I believe in building software that empowers users, encourages thoughtful engagement, and prioritizes privacy.
+
+If you support me through Ko-Fi, you'll be contributing towards project maintenance and development. Thank you to anyone who wants to give.
+
 </details>
 
 <details>
