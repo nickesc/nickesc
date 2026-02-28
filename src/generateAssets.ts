@@ -4,7 +4,7 @@ import path from "path";
 import { LanguageBadges, DistributionBadges, WebBadges, SocialBadges } from "./badges.ts";
 import type { Format } from "badge-maker";
 
-const OUTPUT_DIR = "badges";
+const OUTPUT_DIR = "img/badges";
 
 const template: Format = {
     style: "for-the-badge",

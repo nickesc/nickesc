@@ -6,10 +6,10 @@
 
 ###### Full-Stack Developer
 
-[![nickesc.io](badges/nickesc-io.svg)](https://nickesc.io/)
-[![batcomputer.xyz](badges/batcomputer-xyz.svg)](https://batcomputer.xyz/)
+[![nickesc.io](img/badges/nickesc-io.svg)](https://nickesc.io/)
+[![batcomputer.xyz](img/badges/batcomputer-xyz.svg)](https://batcomputer.xyz/)
 
-[![Support me](badges/Support-me.svg)](https://ko-fi.com/nickesc)
+[![Support me](img/badges/Support-me.svg)](https://ko-fi.com/nickesc)
 
 </div>
 
@@ -23,15 +23,15 @@ Founder of N. Escobar Media, an independent production studio.
 
 <div align="center">
 
-[![HTML](badges/HTML.svg)](https://html.spec.whatwg.org/multipage/)
-[![CSS](badges/CSS.svg)](https://www.w3.org/Style/CSS/)
-[![JavaScript](badges/JavaScript.svg)](https://262.ecma-international.org/)
-[![TypeScript](badges/TypeScript.svg)](https://www.typescriptlang.org/)
-[![Nodejs](badges/Nodejs.svg)](https://nodejs.org/)
-[![React](badges/React.svg)](https://react.dev/)
-[![Python](badges/Python.svg)](https://www.python.org/)
-[![Zsh](badges/Zsh.svg)](https://zsh.sourceforge.io/)
-[![Godot](badges/Godot.svg)](https://godotengine.org/)
+[![HTML](img/badges/HTML.svg)](https://html.spec.whatwg.org/multipage/)
+[![CSS](img/badges/CSS.svg)](https://www.w3.org/Style/CSS/)
+[![JavaScript](img/badges/JavaScript.svg)](https://262.ecma-international.org/)
+[![TypeScript](img/badges/TypeScript.svg)](https://www.typescriptlang.org/)
+[![Nodejs](img/badges/Nodejs.svg)](https://nodejs.org/)
+[![React](img/badges/React.svg)](https://react.dev/)
+[![Python](img/badges/Python.svg)](https://www.python.org/)
+[![Zsh](img/badges/Zsh.svg)](https://zsh.sourceforge.io/)
+[![Godot](img/badges/Godot.svg)](https://godotengine.org/)
 
 </div>
 
@@ -76,8 +76,8 @@ Best ways to reach me:
 <dt>Code</dt>
 <dd>
 
-[![GitHub](badges/GitHub.svg)](https://github.com/nickesc)
-[![npm](badges/NPM.svg)](https://www.npmjs.com/org/nickesc)
+[![GitHub](img/badges/GitHub.svg)](https://github.com/nickesc)
+[![npm](img/badges/NPM.svg)](https://www.npmjs.com/org/nickesc)
 
 </dd>
 </dl>
@@ -86,9 +86,9 @@ Best ways to reach me:
 <dt>Extensions</dt>
 <dd>
 
-[![Visual Studio Marketplace](badges/VS-Marketplace.svg)](https://marketplace.visualstudio.com/publishers/nickesc)
-[![OpenVSX](badges/OpenVSX.svg)](https://open-vsx.org/namespace/nickesc)
-[![Firefox Add-ons](badges/Firefox-Add-ons.svg)](https://addons.mozilla.org/en-US/firefox/user/18835687/)
+[![Visual Studio Marketplace](img/badges/VS-Marketplace.svg)](https://marketplace.visualstudio.com/publishers/nickesc)
+[![OpenVSX](img/badges/OpenVSX.svg)](https://open-vsx.org/namespace/nickesc)
+[![Firefox Add-ons](img/badges/Firefox-Add-ons.svg)](https://addons.mozilla.org/en-US/firefox/user/18835687/)
 
 </dd>
 </dl>
@@ -97,8 +97,8 @@ Best ways to reach me:
 <dt>Games</dt>
 <dd>
 
-[![Itch.io](badges/Itch-io.svg)](https://nickesc.itch.io/)
-[![Modrinth](badges/Modrinth.svg)](https://modrinth.com/user/nickesc)
+[![Itch.io](img/badges/Itch-io.svg)](https://nickesc.itch.io/)
+[![Modrinth](img/badges/Modrinth.svg)](https://modrinth.com/user/nickesc)
 
 </dd>
 </dl>
@@ -111,11 +111,11 @@ Best ways to reach me:
 
 <div>
 
-[![GitHub](badges/GitHub-1.svg)](https://github.com/nickesc)
-[![BlueSky](badges/BlueSky.svg)](https://bsky.app/profile/nickesc.io)
-[![Mastodon](badges/Mastodon.svg)](https://infosec.exchange/@nickesc)
-[![LinkedIn](badges/LinkedIn.svg)](https://www.linkedin.com/in/nickesc/)
-[![YouTube](badges/YouTube.svg)](https://www.youtube.com/@nickesc_)
+[![GitHub](img/badges/GitHub-1.svg)](https://github.com/nickesc)
+[![BlueSky](img/badges/BlueSky.svg)](https://bsky.app/profile/nickesc.io)
+[![Mastodon](img/badges/Mastodon.svg)](https://infosec.exchange/@nickesc)
+[![LinkedIn](img/badges/LinkedIn.svg)](https://www.linkedin.com/in/nickesc/)
+[![YouTube](img/badges/YouTube.svg)](https://www.youtube.com/@nickesc_)
 
 </div>
 
