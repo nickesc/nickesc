@@ -6,12 +6,10 @@
 
 ###### Full-Stack Developer
 
-<div>
-
 [![nickesc.io](badges/nickesc-io.svg)](https://nickesc.io/)
 [![batcomputer.xyz](badges/batcomputer-xyz.svg)](https://batcomputer.xyz/)
 
-</div>
+[![Support me](badges/Support-me.svg)](https://ko-fi.com/nickesc)
 
 </div>
 
@@ -79,5 +77,20 @@ Founder of N. Escobar Media, an independent production studio.
 </dd>
 </dl>
 </blockquote>
+
+</details>
+
+<details open>
+  <summary><h3>Where to follow me</h3></summary>
+
+<div>
+
+[![GitHub](badges/GitHub-1.svg)](https://github.com/nickesc)
+[![BlueSky](badges/BlueSky.svg)](https://bsky.app/profile/nickesc.io)
+[![Mastodon](badges/Mastodon.svg)](https://infosec.exchange/@nickesc)
+[![LinkedIn](badges/LinkedIn.svg)](https://www.linkedin.com/in/nickesc/)
+[![YouTube](badges/YouTube.svg)](https://www.youtube.com/@nickesc_)
+
+</div>
 
 </details>
