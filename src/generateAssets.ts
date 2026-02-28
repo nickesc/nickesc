@@ -1,8 +1,9 @@
 import { makeBadge } from "badge-maker";
 import fs from "fs";
 import path from "path";
-import { LanguageBadges, DistributionBadges, WebBadges } from "./badges.ts";
+import { LanguageBadges, DistributionBadges, WebBadges, SocialBadges } from "./badges.ts";
 import type { Format } from "badge-maker";
+
 const OUTPUT_DIR = "badges";
 
 const template: Format = {
@@ -11,15 +12,25 @@ const template: Format = {
     color: "black",
 };
 
+const badgeNames: string[] = [];
+
 function writeBadge(badgeSvg: string, filename: string) {
-    fs.writeFileSync(filename, badgeSvg);
+    if (badgeNames.includes(filename)) {
+        let i = 1;
+        while (badgeNames.includes(`${filename}-${i}`)) {
+            i++;
+        }
+        filename = `${filename}-${i}`;
+    }
+    fs.writeFileSync(`${filename}.svg`, badgeSvg);
+    badgeNames.push(filename);
 }
 
 function generateBadges(badges: Format[] = []) {
     try {
         for (const badge of badges) {
             let badgeSvg = makeBadge({ ...template, ...badge });
-            writeBadge(badgeSvg, path.join(process.cwd(), OUTPUT_DIR, `${(badge.label ?? badge.message).replace(/[^a-zA-Z0-9]/g, "-")}.svg`));
+            writeBadge(badgeSvg, path.join(process.cwd(), OUTPUT_DIR, `${(badge.label ?? badge.message).replace(/[^a-zA-Z0-9]/g, "-")}`));
         }
     } catch (e) {
         console.log(e);
@@ -29,3 +40,4 @@ function generateBadges(badges: Format[] = []) {
 generateBadges(LanguageBadges);
 generateBadges(DistributionBadges);
 generateBadges(WebBadges);
+generateBadges(SocialBadges);
