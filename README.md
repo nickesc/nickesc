@@ -57,7 +57,9 @@ If you support me through Ko-Fi, you'll be contributing towards project maintena
 <details>
   <summary><h3>Work with me</h3></summary>
 
-I am open to work, and I'm currently looking for a position as a full time web developer. I am also open to collaborating on open-source tools, web apps, extensions, and other creative projects.
+I am open to work, and I'm currently looking for a position as a full-time web developer.
+
+I'm also open to collaborating on open-source tools, web apps, extensions, and other creative projects.
 
 Best ways to reach me:
 
