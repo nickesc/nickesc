@@ -1,6 +1,15 @@
 <div align="center">
 
-<a href="https://github.com/nickesc"><img src="img/nickesc.svg" alt="nickesc" width="100" height="100"></a>
+<svg viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <rect id="rect-1-svg" x="0" y="0" width="100" height="100" rx="50" ry="50"/>
+    <clipPath id="clippath">
+      <use href="#rect-1-svg" />
+    </clipPath>
+  </defs>
+  <use href="#rect-1-svg" />
+  <image x="0" y="0" width="100%" height="100%" href="https://avatars.githubusercontent.com/u/12503203?v=4" clip-path="url(#clippath)"/>
+</svg>
 
 ### Nick Escobar (nickesc)
 
