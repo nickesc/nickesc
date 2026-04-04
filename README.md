@@ -17,7 +17,7 @@ Hi, I'm Nick!
 
 I'm a web developer and designer, and I'm passionate about open-source and building tools that help people. Sometimes I make games.
 
-Founder of _N. Escobar Media_, an independent production studio.
+Founder of [_N. Escobar Media_](https://nescobar.media), an independent studio that builds software and helps small teams and individuals resolve technical problems.
 
 <br />
 
@@ -61,10 +61,12 @@ I am open to work, and I'm currently looking for a position as a full-time web d
 
 I'm also open to collaborating on open-source tools, apps, and other creative projects.
 
-Best ways to reach me:
+If you're interested in partnering with N. Escobar Media, reach out through the form at the bottom of our landing page at [nescobar.media](https://nescobar.media).
+
+Otherwise, best ways to reach me:
 
 - For repository-specific questions or bugs: open an issue on the relevant repo
-- For other inquiries: reach out on [BlueSky](https://bsky.app/profile/nickesc.io) or [Mastodon](https://infosec.exchange/@nickesc)
+- For everything else: reach out on [BlueSky](https://bsky.app/profile/nickesc.io) or [Mastodon](https://infosec.exchange/@nickesc)
 
 </details>
 
