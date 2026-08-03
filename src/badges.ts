@@ -1,5 +1,5 @@
-import type { SimpleIcon } from "simple-icons";
-import type { Format } from "badge-maker";
+import type {SimpleIcon} from "simple-icons";
+import type {Format} from "badge-maker";
 import * as icons from "simple-icons";
 import fs from "fs";
 import path from "path";
@@ -62,6 +62,12 @@ export const LanguageBadges: Format[] = [
         message: "React",
         color: "#3eb6d6",
         logoBase64: iconToBase64(icons.siReact),
+    },
+    {
+        style: "flat-square",
+        message: "Svelte",
+        color: "#ff3e00",
+        logoBase64: iconToBase64(icons.siSvelte),
     },
     {
         style: "flat-square",
