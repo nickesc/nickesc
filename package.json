@@ -14,7 +14,12 @@
   "type": "module",
   "main": "src/generateAssets.ts",
   "scripts": {
-    "test": "node src/generateAssets.ts && echo \"Success\""
+    "test": "node src/generateAssets.ts && echo \"Success\"",
+    "generate:language": "node src/generateAssets.ts --language",
+    "generate:distribution": "node src/generateAssets.ts --distribution",
+    "generate:web": "node src/generateAssets.ts --web",
+    "generate:social": "node src/generateAssets.ts --social",
+    "generate:all": "node src/generateAssets.ts --all"
   },
   "dependencies": {
     "badge-maker": "^5.0.2",
