@@ -29,6 +29,7 @@ Founder of [_N. Escobar Media_](https://nescobar.media), an independent studio t
 [![TypeScript](img/badges/TypeScript.svg)](https://www.typescriptlang.org/)
 [![Nodejs](img/badges/Nodejs.svg)](https://nodejs.org/)
 [![React](img/badges/React.svg)](https://react.dev/)
+[![Svelte](img/badges/Svelte.svg)](https://svelte.dev/)
 [![Python](img/badges/Python.svg)](https://www.python.org/)
 [![Zsh](img/badges/Zsh.svg)](https://zsh.sourceforge.io/)
 [![Godot](img/badges/Godot.svg)](https://godotengine.org/)
