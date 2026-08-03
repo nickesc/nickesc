@@ -1,8 +1,8 @@
-import { makeBadge } from "badge-maker";
+import {makeBadge} from "badge-maker";
 import fs from "fs";
 import path from "path";
-import { LanguageBadges, DistributionBadges, WebBadges, SocialBadges } from "./badges.ts";
-import type { Format } from "badge-maker";
+import {LanguageBadges, DistributionBadges, WebBadges, SocialBadges} from "./badges.ts";
+import type {Format} from "badge-maker";
 
 const OUTPUT_DIR = "img/badges";
 
@@ -29,15 +29,28 @@ function writeBadge(badgeSvg: string, filename: string) {
 function generateBadges(badges: Format[] = []) {
     try {
         for (const badge of badges) {
-            let badgeSvg = makeBadge({ ...template, ...badge });
-            writeBadge(badgeSvg, path.join(process.cwd(), OUTPUT_DIR, `${(badge.label ?? badge.message).replace(/[^a-zA-Z0-9]/g, "-")}`));
+            let badgeSvg = makeBadge({...template, ...badge});
+            writeBadge(
+                badgeSvg,
+                path.join(process.cwd(), OUTPUT_DIR, `${(badge.label ?? badge.message).replace(/[^a-zA-Z0-9]/g, "-")}`),
+            );
         }
     } catch (e) {
         console.log(e);
     }
 }
 
-generateBadges(LanguageBadges);
-generateBadges(DistributionBadges);
-generateBadges(WebBadges);
-generateBadges(SocialBadges);
+const args = process.argv.slice(2);
+
+if (args.includes("--language") || args.includes("--all") || args.length === 0) {
+    generateBadges(LanguageBadges);
+}
+if (args.includes("--distribution") || args.includes("--all") || args.length === 0) {
+    generateBadges(DistributionBadges);
+}
+if (args.includes("--web") || args.includes("--all") || args.length === 0) {
+    generateBadges(WebBadges);
+}
+if (args.includes("--social") || args.includes("--all") || args.length === 0) {
+    generateBadges(SocialBadges);
+}
