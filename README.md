@@ -4,7 +4,7 @@
 
 ### Nick Escobar (nickesc)
 
-###### _Full-Stack Developer_
+###### _Frontend Developer @ Waybetter Marketing_
 
 [![nickesc.io](img/badges/nickesc-io.svg)](https://nickesc.io/)
 [![batcomputer.xyz](img/badges/batcomputer-xyz.svg)](https://batcomputer.xyz/)
@@ -58,9 +58,7 @@ If you support me through Ko-Fi, you'll be contributing towards project maintena
 <details>
   <summary><h3>Work with me</h3></summary>
 
-I am open to work, and I'm currently looking for a position as a full-time web developer.
-
-I'm also open to collaborating on open-source tools, apps, and other creative projects.
+I'm open to collaborating on open-source tools, apps, and other creative projects.
 
 If you're interested in partnering with N. Escobar Media, reach out through the form at the bottom of our landing page at [nescobar.media](https://nescobar.media).
 
