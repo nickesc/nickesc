@@ -36,7 +36,7 @@ Creator of [_N. Escobar Media_](https://nescobar.media), an independent studio t
 
 <br />
 
-<details>
+<details name="info">
   <summary><h3>More about me</h3></summary>
 
 I'm a graduate of Occidental College, a small liberal arts college in Los Angeles, with a B.A. in Computer Science and minors in Studio Art and Media Studies.
@@ -51,7 +51,7 @@ I believe in building software that empowers users, encourages thoughtful engage
 
 </details>
 
-<details>
+<details name="info">
   <summary><h3>Work with me</h3></summary>
 
 I'm open to collaborating on open-source tools, apps, and other creative projects.
@@ -63,7 +63,7 @@ The best ways to reach me:
 
 </details>
 
-<details>
+<details name="info">
   <summary><h3>Where to find my work</h3></summary>
 
 <blockquote>
@@ -101,7 +101,7 @@ The best ways to reach me:
 
 </details>
 
-<details open>
+<details name="info" open>
   <summary><h3>Where to follow me</h3></summary>
 
 <div>
