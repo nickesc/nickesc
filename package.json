@@ -19,6 +19,7 @@
     "generate:distribution": "node src/generateAssets.ts --distribution",
     "generate:web": "node src/generateAssets.ts --web",
     "generate:social": "node src/generateAssets.ts --social",
+    "generate:nickesc": "node src/generateNickesc.ts src/assets/nickesc.png",
     "generate:all": "node src/generateAssets.ts --all"
   },
   "dependencies": {
