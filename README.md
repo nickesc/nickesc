@@ -9,15 +9,13 @@
 [![nickesc.io](img/badges/nickesc-io.svg)](https://nickesc.io/)
 [![batcomputer.xyz](img/badges/batcomputer-xyz.svg)](https://batcomputer.xyz/)
 
-[![Support me](img/badges/Support-me.svg)](https://ko-fi.com/nickesc)
-
 </div>
 
 Hi, I'm Nick!
 
 I'm a web developer and designer, and I'm passionate about open-source and building tools that help people. Sometimes I make games.
 
-Founder of [_N. Escobar Media_](https://nescobar.media), an independent studio that builds software and helps small teams and individuals resolve technical problems.
+Creator of [_N. Escobar Media_](https://nescobar.media), an independent studio that builds software and helps small teams and individuals resolve technical problems.
 
 <br />
 
@@ -51,8 +49,6 @@ Almost everything I make is open-source, and I'm excited to contribute to the co
 
 I believe in building software that empowers users, encourages thoughtful engagement, and prioritizes privacy.
 
-If you support me through Ko-Fi, you'll be contributing towards project maintenance and development. Thank you to anyone who wants to give.
-
 </details>
 
 <details>
@@ -60,12 +56,10 @@ If you support me through Ko-Fi, you'll be contributing towards project maintena
 
 I'm open to collaborating on open-source tools, apps, and other creative projects.
 
-If you're interested in partnering with N. Escobar Media, reach out through the form at the bottom of our landing page at [nescobar.media](https://nescobar.media).
-
-Otherwise, best ways to reach me:
+The best ways to reach me:
 
 - For repository-specific questions or bugs: open an issue on the relevant repo
-- For everything else: reach out on [BlueSky](https://bsky.app/profile/nickesc.io) or [Mastodon](https://infosec.exchange/@nickesc)
+- For everything else: reach out on [my website](https://nickesc.io/contact)
 
 </details>
 
@@ -119,5 +113,7 @@ Otherwise, best ways to reach me:
 [![YouTube](img/badges/YouTube.svg)](https://www.youtube.com/@nickesc_)
 
 </div>
+
+[![Support me](img/badges/Support-me.svg)](https://ko-fi.com/nickesc)
 
 </details>
